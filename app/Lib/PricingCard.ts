@@ -9,7 +9,7 @@ interface IPricingCard {
 const pricingCards:IPricingCard[] = [
     {
         price: 49,
-        title: "Insightful Pro",
+        title: "Draycore Pro",
         benefits: [
             "Predictive lead scoring",
             "Automated content creation",
@@ -21,7 +21,7 @@ const pricingCards:IPricingCard[] = [
     },
     {
         price: 99,
-        title: "Insightful Enterprise",
+        title: "Draycore Enterprise",
         benefits: [
             "Everything In Pro Tier, and:",
             "Data-driven recommendations",
