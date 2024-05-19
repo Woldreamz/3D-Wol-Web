@@ -24,6 +24,7 @@ Navigate to the project directory: cd draycore
 Install frontend and backend dependencies: npm install
 Set up environment variables: Create a .env file and add the required environment variables (e.g., database URL, API keys).
 Start the development server: npm run dev (for Next.js frontend) and npm start (for Node.js backend)
+
 Usage Instructions:
 
 Register for an account or log in with an existing account.
