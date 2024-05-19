@@ -11,7 +11,7 @@ User Dashboard: A comprehensive dashboard for users to monitor their subscriptio
 Secure Transactions: Ensure secure and encrypted transactions for subscription payments.
 Technologies Used:
 
-Frontend: Next.js, Tailwind CSS
+Frontend: Next.js, Tailwind CSS <br />
 Backend: Node.js, Express.js
 Database: MongoDB or PostgreSQL (specify which one is used)
 Authentication: JWT, OAuth
@@ -19,7 +19,7 @@ AI Integration: TensorFlow.js or other AI libraries (specify if any)
 Hosting: Vercel (for Next.js) or other platforms (specify if any)
 Installation Instructions:
 
-Clone the repository: git clone https://github.com/username/draycore.git
+Clone the repository: git clone https://github.com/username/draycore.git 
 Navigate to the project directory: cd draycore
 Install frontend and backend dependencies: npm install
 Set up environment variables: Create a .env file and add the required environment variables (e.g., database URL, API keys).
